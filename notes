@@ -9,11 +9,10 @@
     -Form
 
     **to be created**
-    -ButtonContainer
-    -Header
     -Favorites
     -Homepage
     -Navbar
+    -Default
 
 4. FETCH to get data from backend(recent locations) GET/POST rendered in Favorites component.
 
@@ -31,4 +30,6 @@
 
 MODELS:
 
-    locations
+   Favorites 
+   -City "String"
+   -Country "String"
