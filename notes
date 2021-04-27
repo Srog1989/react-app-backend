@@ -1,0 +1,34 @@
+
+***FRONT END NEED TO***
+1. Add functionality that IF City or Country name are spelled incorectly it will error, not break.
+2. Set state using Redux
+3. Set 5 stateless components ie buttons, forms, etc.
+    **Already created**
+    -WeatherContainer
+    -WeatherInfo
+    -Form
+
+    **to be created**
+    -ButtonContainer
+    -Header
+    -Favorites
+    -Homepage
+    -Navbar
+
+4. FETCH to get data from backend(recent locations) GET/POST rendered in Favorites component.
+
+3 Routes
+
+1. Homepage 
+2. Current Weather
+3. Favorites
+4.**stretch goal** 5 day forecast
+
+
+
+
+***BACKEND***
+
+MODELS:
+
+    locations
